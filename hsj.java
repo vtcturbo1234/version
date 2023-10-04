@@ -25,7 +25,7 @@ public class hsj {
 						System.out.println("You Won 5€.");
 
 				if (number1 == 7 && number2 == 7 && number3 == 7) {
-					System.out.println("You Won 10€.");
+					System.out.println("You Won 10€. ");
 				
 				}
 				}
